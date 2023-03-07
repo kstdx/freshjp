@@ -1,0 +1,38 @@
+{
+    "introduction": {
+        "title": "まえがき"
+    },
+    "getting-started": {
+        "title": "始めましょう",
+        "pages": [
+            ["create-a-project", "プロジェクトの作成"],
+            ["running-locally", "ローカルで起動する"],
+            ["create-a-route", "ルーティングの作成"],
+            ["dynamic-routes", "動的ルーティング"],
+            ["custom-handlers", "カスタムハンドラ"],
+            ["fetching-data", "データの取得"],
+            ["form-submissions", "フォームの投稿関連"],
+            ["adding-interactivity", "双方向性を追加する"],
+            ["deploy-to-production", "プロダクションデプロイ"]
+        ]
+    },
+    "concepts": {
+        "title": "コンセプトに関して",
+        "pages": [
+            ["architecture", "アーキテクチャ"],
+            ["routes", "ルーティング"],
+            ["islands", "双方向的なIsland"],
+            ["static-files", "静的ファイル"],
+            ["middleware", "ミドルウェア"],
+            ["error-pages", "エラーページ"],
+            ["routing", "ファイルシステム"],
+            ["data-fetching", "データ取得"],
+            ["deployment", "デプロイ"],
+            ["plugins", "プラグイン"],
+            ["updating", "Freshのアップデート"]
+        ]
+    },
+    "integrations": {
+        "title": "統合に関して"
+    }
+}
